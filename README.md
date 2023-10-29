@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software development graduate from Coding-Academy with a strong foundation in JS, Node.js, and Vue. <br>Seeking for a challenging software development position where I can utilize my skills and continue to grow and develop as a professional.<br>**Check my projects:**<br>- [Ninerr](https://github.com/StrukovSergei/Ninerr)<br>- [Chat-App](https://github.com/StrukovSergei/Discord-clone)<br>- [FlightScanner](https://github.com/StrukovSergei/FlightScanner)<br>-<br>**Currently working on:**Responsive recipe app and My own NPM package!
+Software development graduate from Coding-Academy with a strong foundation in JS, Node.js, and Vue. <br>Seeking for a challenging software development position where I can utilize my skills and continue to grow and develop as a professional.<br>**Check my projects:**<br>- [Ninerr](https://github.com/StrukovSergei/Ninerr)<br>- [Chat-App](https://github.com/StrukovSergei/Discord-clone)<br>- [FlightScanner](https://github.com/StrukovSergei/FlightScanner)<br>-<br>**Currently working on:** Responsive recipe app and My own NPM package!
 
 
 ## 🌐 Socials:
