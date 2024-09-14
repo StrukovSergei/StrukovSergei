@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software development graduate from Coding-Academy with a strong foundation in JS, Node.js, and Vue. <br>Seeking for a challenging software development position where I can utilize my skills and continue to grow and develop as a professional.<br>**Check my projects:**<br>- [Ninerr](https://github.com/StrukovSergei/Ninerr)<br>- [Chat-App](https://github.com/StrukovSergei/Discord-clone)<br>- [FlightScanner](https://github.com/StrukovSergei/FlightScanner)<br>-<br>**Currently working on:** Responsive recipe app and My own NPM package!
+DevOps Engineer with hands-on experience in cloud infrastructure, automation, and CI/CD pipelines. I specialize in leveraging tools like Docker, Kubernetes, Jenkins, and Terraform to optimize software delivery workflows. I am passionate about improving system reliability and streamlining deployments across AWS, GCP, and Azure platforms.
 
 
 ## 🌐 Socials:
@@ -8,11 +8,231 @@ Software development graduate from Coding-Academy with a strong foundation in JS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sergei-Strukov) 
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+
+<h3 align="center">Cloud Computing & DevOps</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Containerization & Orchestration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="ArgoCD" width="80" height="50"/><br>ArgoCD
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">CI/CD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50"/><br>Jenkins
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50"/><br>GitHub Actions
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure Pipelines" width="50" height="50"/><br>Azure Pipelines
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI" width="50" height="50"/><br>GitLab CI
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50"/><br>Ansible
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Web Development</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/><br>C
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/><br>Bash
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/><br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://vuejs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Vue"/>
+        </a>
+        <br>Vue
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=StrukovSergei&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StrukovSergei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrukovSergei&theme=dark&hide_border=false" alt="Streak Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrukovSergei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400"/>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
