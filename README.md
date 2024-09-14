@@ -227,7 +227,9 @@ DevOps Engineer with hands-on experience in cloud infrastructure, automation, an
   </tbody>
 </table>
 </div>
-# 📊 GitHub Stats:
+
+<h1 align="center"> 📊 GitHub Stats</h1>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrukovSergei&theme=dark&hide_border=false" alt="Streak Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrukovSergei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400"/>
