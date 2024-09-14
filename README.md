@@ -113,7 +113,7 @@ DevOps Engineer with hands-on experience in cloud infrastructure, automation, an
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="6" align="center" style="color: white;">Frontend</th>
+      <th colspan="6" align="center" style="color: white;">Languages</th>
     </tr>
   </thead>
   <tbody>
