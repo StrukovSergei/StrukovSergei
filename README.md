@@ -1,11 +1,22 @@
-# 💫 About Me:
-DevOps Engineer with hands-on experience in cloud infrastructure, automation, and CI/CD pipelines. I specialize in leveraging tools like Docker, Kubernetes, Jenkins, and Terraform to optimize software delivery workflows. I am passionate about improving system reliability and streamlining deployments across AWS, GCP, and Azure platforms.
+<div>
+<h2 align="center" style="margin: 5px 10px;">💫 About Me:</h2>
+<p>DevOps Engineer with hands-on experience in cloud infrastructure, automation, and CI/CD pipelines. I specialize in leveraging tools like Docker, Kubernetes, Jenkins, and Terraform to optimize software delivery workflows. I am passionate about improving system reliability and streamlining deployments across AWS, GCP, and Azure platforms.</p>
+</div>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">🌐 Socials:</h2>
+</div>
+<div align="center">
+<a href="mailto:strukov.sergei.999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
+<a href="https://linkedin.com/in/Sergei-Strukov"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">📜Certifications:</h2>
+<img title="AWS CCP Badge" alt="AWS CCP badge" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png">
+</div>
 
 
-## 🌐 Socials:
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  **strukov.sergei.999@gmail.com**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sergei-Strukov) 
 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
