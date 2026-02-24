@@ -243,7 +243,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrukovSergei&theme=dark&hide_border=false" alt="Streak Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrukovSergei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400"/>
 </p>
 
 
